@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>Yesterday</item>
+        <item>Past week</item>
+        <item>Past Month</item>
+        <item>This year</item>
+
+
+    </string-array>
+</resources>
