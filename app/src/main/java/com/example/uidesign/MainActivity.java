@@ -37,9 +37,6 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         bottomNavigationView = findViewById(R.id.bottomnav);
         bottomNavigationView.setOnNavigationItemSelectedListener(this);
         loadFragment(new StatsFragment());
-
-
-
     }
 
     private void loadFragment(Fragment fragment) {
